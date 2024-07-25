@@ -1,4 +1,4 @@
-# 🌟 Cedric Nyagatare's GitHub Portfolio
+# 🌟 Cedric Nyagatare
 
 Welcome to my GitHub portfolio repository! This repository is a collection of my projects, code samples, and contributions. Explore my work and feel free to reach out if you have any questions or collaboration ideas.
 
