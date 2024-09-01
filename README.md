@@ -1,77 +1,21 @@
-# 🌟 Cedric Nyagatare
+# 💫 About Me:
+Aspiring data scientist with a strong interest in cloud computing. Experienced in data engineering. Passionate about creating impactful solutions and continuous learning.
 
-Welcome to my GitHub portfolio repository! This repository is a collection of my projects, code samples, and contributions. Explore my work and feel free to reach out if you have any questions or collaboration ideas.
 
-![Profile Banner](https://github.com/NYGCEDRIC/NYGCEDRIC/blob/main/Screenshot%202024-07-25%20at%208.44.32%20AM.png)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/cedric-nyagatare-39053b146) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Cedric Nyagatare) 
 
-## 📋 Table of Contents
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NYGCEDRIC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NYGCEDRIC&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NYGCEDRIC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Certifications](#certifications)
-- [Contact](#contact)
-- [Contributing](#contributing)
-- [License](#license)
-
-## 👨‍💻 About Me
-
-Hello! I'm Cedric Nyagatare, a passionate software engineer with a keen interest in developing innovative solutions. I enjoy working on challenging projects and constantly learning new technologies.
-
-Visit my [portfolio website](https://cedric-nyagatare-portfolio.vercel.app/) to learn more about me and my work.
-
-## 🚀 Projects
-
-Here are some of the projects I've worked on:
-
-### [Project 1: Algo-Trading Strategy](https://github.com/NYGCEDRIC/algo-trading-strategy)
-- **Description**: An end-to-end algorithmic trading strategy, including data sourcing, transformation, ML modeling, and trading simulation.
-- **Technologies**: Python, Pandas, scikit-learn, Yahoo Finance API
-
-### [Project 2: FarmingGPT](https://github.com/NYGCEDRIC/farminggpt)
-- **Description**: An AI chatbot for farmers, accepting input in Hindi and providing output in Hindi, using LLaMA 2 and custom datasets.
-- **Technologies**: Python, HuggingFace, Vercel AI SDK, Streamlit
-
-### [Project 3: Weather Data Analysis](https://github.com/NYGCEDRIC/weather-data-analysis)
-- **Description**: Cleaning and merging weather data, and calculating area-weighted and population-weighted weather variables.
-- **Technologies**: Python, Pandas, NumPy
-
-Check out my [repositories](https://github.com/NYGCEDRIC?tab=repositories) for more projects!
-
-## 🛠️ Skills
-
-- **Programming Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks and Libraries**: React, Next.js, Tailwind CSS
-- **Tools and Platforms**: Git, Vercel, HuggingFace
-- **Databases**: MySQL, PostgreSQL
-- **Other**: Data Analysis, Machine Learning, Natural Language Processing
-
-## 🏅 Certifications
-
-- **AWS Certified Solutions Architect** (March 2024)
-
-## 📬 Contact
-
-Feel free to reach out if you have any questions or would like to collaborate on a project:
-
-- **Email**: [nyagatac@whitman.edu](mailto:nyagatac@whitman.edu)
-- **LinkedIn**: [linkedin.com/in/cedric-nyagatare-39053b146](https://www.linkedin.com/in/cedric-nyagatare-39053b146)
-- **Twitter**: [x.com/NyagatareCedric](https://x.com/NyagatareCedric)
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute to any of my projects, please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NYGCEDRIC&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=NYGCEDRIC&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thank you for visiting my GitHub portfolio! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
