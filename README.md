@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring data engineer with a strong interest in software engineering. Experienced in data engineering. Passionate about creating impactful solutions and continuous learning.
+Aspiring data scientist with a strong interest in software engineering. Experienced in data engineering. Passionate about creating impactful solutions and continuous learning.
 
 
 ## 🌐 Socials:
